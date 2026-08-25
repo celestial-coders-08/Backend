@@ -1,0 +1,55 @@
+bank_id,company,description,amount,date,reference
+B001,Vortex Holdings,Service fee,173.8,2026-06-09,REF-B001
+B002,BlueStar Inc,Consulting retainer,740.71,2026-06-04,REF-B002
+B003,Vortex Holdings,Legal fees,4466.29,2026-06-03,REF-B003
+B004,Summit Analytics,License renewal,207.32,2026-06-03,REF-B004
+B005,BlueStar Inc,Consulting retainer,2551.51,2026-06-01,REF-B005
+B006,Coastal Partners,Consulting retainer,3594.3,2026-06-23,REF-B006
+B007,Coastal Partners,License renewal,1141.18,2026-06-19,REF-B007
+B008,Quantum Dynamics,Audit services,4353.04,2026-06-25,REF-B008
+B009,Silverline Media,Software subscription,3505.79,2026-06-11,REF-B009
+B010,Quantum Dynamics,Software subscription,1115.8,2026-06-25,REF-B010
+B011,PeakFlow Solutions,Service fee,509.09,2026-06-04,REF-B011
+B012,PeakFlow Solutions,Insurance premium,1752.58,2026-06-09,REF-B012
+B013,Silverline Media,Invoice payment,3662.17,2026-06-18,REF-B013
+B014,GlobalTech Ltd,Utility payment,1923.75,2026-06-18,REF-B014
+B015,Quantum Dynamics,Insurance premium,3161.77,2026-06-29,REF-B015
+B016,Prism Consultants,Maintenance contract,2907.89,2026-06-23,REF-B016
+B017,GlobalTech Ltd,Invoice payment,3323.25,2026-06-25,REF-B017
+B018,Quantum Dynamics,Service fee,4283.82,2026-06-28,REF-B018
+B019,GlobalTech Ltd,License renewal,1425.97,2026-06-21,REF-B019
+B020,Prism Consultants,Maintenance contract,855.14,2026-06-12,REF-B020
+B021,BlueStar Inc,Marketing services,1371.54,2026-06-30,REF-B021
+B022,Vortex Holdings,Marketing services,403.44,2026-06-21,REF-B022
+B023,Sunrise Ventures,Contractor payment,3659.18,2026-06-06,REF-B023
+B024,NexGen Systems,License renewal,1386.24,2026-06-30,REF-B024
+B025,Vortex Holdings,Legal fees,2806.9,2026-06-22,REF-B025
+B026,PeakFlow Solutions,Insurance premium,3853.15,2026-06-02,REF-B026
+B027,BlueStar Inc,Insurance premium,208.9,2026-06-11,REF-B027
+B028,Meridian Trading,Hardware purchase,377.63,2026-06-30,REF-B028
+B029,Summit Analytics,Utility payment,3603.68,2026-06-07,REF-B029
+B030,Vortex Holdings,Vendor payment,2008.38,2026-06-30,REF-B030
+B031,Vortex Holdings,Vendor payment,757.21,2026-06-05,REF-B031
+B032,BlueStar Inc,Legal fees,2828.77,2026-06-09,REF-B032
+B033,Ironclad Finance,Cloud services,2170.75,2026-06-19,REF-B033
+B034,Meridian Trading,Maintenance contract,1135.64,2026-06-05,REF-B034
+B035,Coastal Partners,Vendor payment,500.0,2026-06-02,REF-B035
+B036,Prism Consultants,Service fee,806.56,2026-06-06,REF-B036
+B037,Silverline Media,Marketing services,2139.69,2026-06-03,REF-B037
+B038,Meridian Trading,License renewal,2999.65,2026-06-15,REF-B038
+B039,Meridian Trading,SOFTWARE SUBSCRI...,1415.8,2026-07-01,REF-B039
+B040,Ironclad Finance,Utility payment,2187.07,2026-06-17,REF-B040
+B041,Coastal Partners,UTILITY PA...,408.59,2026-06-21,REF-B041
+B042,Quantum Dynamics,Insurance premium,1952.95,2026-06-20,REF-B042
+B043,Sunrise Ventures,Maintenance contract (pt1),1155.64,2026-06-18,REF-L043
+B044,Sunrise Ventures,Maintenance contract (pt2),1155.64,2026-06-18,REF-L043
+B045,Silverline Media,Utility payment,1638.03,2026-06-01,REF-B045
+B046,Summit Analytics,Maintenance contract,1516.96,2026-06-04,REF-B046
+B047,Summit Analytics,Maintenance contract,1516.96,2026-06-05,REF-B046
+B048,Cascade Industries,Maintenance contract,2648.29,2026-06-27,REF-B048
+B049,BlueStar Inc,Invoice payment,798.53,2026-06-19,REF-B049
+B050,GlobalTech Ltd,Legal fees,1509.37,2026-06-03,REF-B050
+B051,GlobalTech Ltd,Legal fees,1509.37,2026-06-04,REF-B050
+B052,Silverline Media,Contractor payment,2320.92,2026-06-05,REF-B052
+B053,Vortex Holdings,Vendor payment (pt1),1422.93,2026-06-06,REF-L048
+B054,Vortex Holdings,Vendor payment (pt2),1422.93,2026-06-06,REF-L048

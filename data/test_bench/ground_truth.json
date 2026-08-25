@@ -1,0 +1,541 @@
+{
+  "batch_id": "seed-42",
+  "mappings": [
+    {
+      "bank_id": "B001",
+      "ledger_id": "L001",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B002",
+      "ledger_id": "L002",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B003",
+      "ledger_id": "L003",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B004",
+      "ledger_id": "L004",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B005",
+      "ledger_id": "L005",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B006",
+      "ledger_id": "L006",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B007",
+      "ledger_id": "L007",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B008",
+      "ledger_id": "L008",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B009",
+      "ledger_id": "L009",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B010",
+      "ledger_id": "L010",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B011",
+      "ledger_id": "L011",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B012",
+      "ledger_id": "L012",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B013",
+      "ledger_id": "L013",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B014",
+      "ledger_id": "L014",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B015",
+      "ledger_id": "L015",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B016",
+      "ledger_id": "L016",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B017",
+      "ledger_id": "L017",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B018",
+      "ledger_id": "L018",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B019",
+      "ledger_id": "L019",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B020",
+      "ledger_id": "L020",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B021",
+      "ledger_id": "L021",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B022",
+      "ledger_id": "L022",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B023",
+      "ledger_id": "L023",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B024",
+      "ledger_id": "L024",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B025",
+      "ledger_id": "L025",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B026",
+      "ledger_id": "L026",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B027",
+      "ledger_id": "L027",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B028",
+      "ledger_id": "L028",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B029",
+      "ledger_id": "L029",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B030",
+      "ledger_id": "L030",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B031",
+      "ledger_id": "L031",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B032",
+      "ledger_id": "L032",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B033",
+      "ledger_id": "L033",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B034",
+      "ledger_id": "L034",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B035",
+      "ledger_id": "L035",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B036",
+      "ledger_id": "L036",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B037",
+      "ledger_id": "L037",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B038",
+      "ledger_id": "L038",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B039",
+      "ledger_id": "L039",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B040",
+      "ledger_id": "L040",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B041",
+      "ledger_id": "L041",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B042",
+      "ledger_id": "L042",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B043",
+      "ledger_id": "L043",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B044",
+      "ledger_id": "L044",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B045",
+      "ledger_id": "L045",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B046",
+      "ledger_id": "L046",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B047",
+      "ledger_id": "L047",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B048",
+      "ledger_id": "L048",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B049",
+      "ledger_id": "L049",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B050",
+      "ledger_id": "L050",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B051",
+      "ledger_id": "L051",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B052",
+      "ledger_id": "L052",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B053",
+      "ledger_id": "L053",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B054",
+      "ledger_id": "L054",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B055",
+      "ledger_id": "L055",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B056",
+      "ledger_id": "L056",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B057",
+      "ledger_id": "L057",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B058",
+      "ledger_id": "L058",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B059",
+      "ledger_id": "L059",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B060",
+      "ledger_id": "L060",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B061",
+      "ledger_id": "L061",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B062",
+      "ledger_id": "L062",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B063",
+      "ledger_id": "L063",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B064",
+      "ledger_id": "L064",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B065",
+      "ledger_id": "L065",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B066",
+      "ledger_id": "L066",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B067",
+      "ledger_id": "L067",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B068",
+      "ledger_id": "L068",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B069",
+      "ledger_id": "L069",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B070",
+      "ledger_id": "L070",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B071",
+      "ledger_id": "L071",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B072",
+      "ledger_id": "L072",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B073",
+      "ledger_id": "L073",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B074",
+      "ledger_id": "L074",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B075",
+      "ledger_id": "L075",
+      "type": "clean"
+    },
+    {
+      "bank_id": "B076",
+      "ledger_id": "L076",
+      "type": "duplicate"
+    },
+    {
+      "bank_id": "B077",
+      "ledger_id": null,
+      "type": "true_orphan"
+    },
+    {
+      "bank_id": "B078",
+      "ledger_id": null,
+      "type": "true_orphan"
+    },
+    {
+      "bank_id": "B079",
+      "ledger_id": "L077",
+      "type": "duplicate"
+    },
+    {
+      "bank_id": "B080",
+      "ledger_id": null,
+      "type": "true_orphan"
+    },
+    {
+      "bank_id": "B081",
+      "ledger_id": "L078",
+      "type": "fee_deduction"
+    },
+    {
+      "bank_id": "B082",
+      "ledger_id": null,
+      "type": "true_orphan"
+    },
+    {
+      "bank_id": "B083",
+      "ledger_id": "L079",
+      "type": "late_settlement"
+    },
+    {
+      "bank_id": "B084",
+      "ledger_id": null,
+      "type": "true_orphan"
+    },
+    {
+      "bank_id": "B085",
+      "ledger_id": "L080",
+      "type": "fee_deduction"
+    },
+    {
+      "bank_id": "B086",
+      "ledger_id": "L081",
+      "type": "garbled_description"
+    },
+    {
+      "bank_id": "B087",
+      "ledger_id": null,
+      "type": "true_orphan"
+    },
+    {
+      "bank_id": "B088",
+      "ledger_id": "L082",
+      "type": "late_settlement"
+    },
+    {
+      "bank_id": "B089",
+      "ledger_id": "L083",
+      "type": "garbled_description"
+    },
+    {
+      "bank_id": "B090",
+      "ledger_id": "L084",
+      "type": "late_settlement"
+    },
+    {
+      "bank_id": "B091",
+      "ledger_id": "L085",
+      "type": "late_settlement"
+    },
+    {
+      "bank_id": "B092",
+      "ledger_id": "L086",
+      "type": "split_payment",
+      "group": [
+        "B092",
+        "B093"
+      ]
+    },
+    {
+      "bank_id": "B094",
+      "ledger_id": "L087",
+      "type": "garbled_description"
+    },
+    {
+      "bank_id": "B095",
+      "ledger_id": "L088",
+      "type": "late_settlement"
+    },
+    {
+      "bank_id": "B096",
+      "ledger_id": "L089",
+      "type": "fee_deduction"
+    },
+    {
+      "bank_id": "B097",
+      "ledger_id": "L090",
+      "type": "garbled_description"
+    },
+    {
+      "bank_id": "B098",
+      "ledger_id": "L091",
+      "type": "duplicate"
+    },
+    {
+      "bank_id": "B099",
+      "ledger_id": null,
+      "type": "true_orphan"
+    },
+    {
+      "bank_id": "B100",
+      "ledger_id": "L092",
+      "type": "duplicate"
+    },
+    {
+      "bank_id": "B101",
+      "ledger_id": null,
+      "type": "true_orphan"
+    },
+    {
+      "bank_id": "B102",
+      "ledger_id": "L093",
+      "type": "split_payment",
+      "group": [
+        "B102",
+        "B103"
+      ]
+    },
+    {
+      "bank_id": "B104",
+      "ledger_id": "L094",
+      "type": "fee_deduction"
+    },
+    {
+      "bank_id": "B105",
+      "ledger_id": "L095",
+      "type": "split_payment",
+      "group": [
+        "B105",
+        "B106"
+      ]
+    },
+    {
+      "bank_id": "B107",
+      "ledger_id": "L096",
+      "type": "split_payment",
+      "group": [
+        "B107",
+        "B108"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "amount_tolerance_pct": 0.03,
+  "amount_tolerance_abs": 35.0,
+  "date_window_days": 10,
+  "confidence_auto_match": 0.85,
+  "confidence_ai_band_low": 0.40,
+  "few_shot_examples": [],
+  "updated_at": "2026-08-22T00:00:00Z",
+  "updated_from_n_labels": 0
+}

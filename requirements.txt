@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+rapidfuzz
+groq
+python-dotenv
+python-multipart
+aiofiles
+httpx
